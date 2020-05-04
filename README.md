@@ -1,6 +1,6 @@
 # Benchtop Waggle Driver (BWD)
 
-#### Lead: [Sean Shahkarami](mailto:sshahkarami@uchicago.edu)
+#### Lead: Sean Shahkarami
 ### Overview:
 When a physical Waggle node is “hosted”, it is attached to a Linux system that can test and operate the node.  Waggle nodes that are part of Chameleon or a nightly test harness are managed by the BWD.  The BWD provides a remotely controllable interface to a physical Waggle node.
 
